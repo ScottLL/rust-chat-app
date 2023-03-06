@@ -1,0 +1,12 @@
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/libthiserror_impl-56853acb95ed6eb9.dylib: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs
+
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/thiserror_impl-56853acb95ed6eb9.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/ast.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/attr.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/expand.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/fmt.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/generics.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/prop.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.39/src/valid.rs:

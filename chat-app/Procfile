@@ -1,0 +1,1 @@
+web: shuttle-service --port $PORT --workers $SHUTTLE_WORKERS --wait-for-db "sqlite:/tmp/chat.db" ./target/release/chat-app

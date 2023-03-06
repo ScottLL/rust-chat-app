@@ -1,0 +1,15 @@
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/uuid-759e5d5f3d06964e.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/builder.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/error.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/parser.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/fmt.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/timestamp.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/v4.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/rng.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/external.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/external/serde_support.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/macros.rs
+
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/uuid-759e5d5f3d06964e.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/builder.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/error.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/parser.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/fmt.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/timestamp.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/v4.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/rng.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/external.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/external/serde_support.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/macros.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/builder.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/error.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/parser.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/fmt.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/timestamp.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/v4.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/rng.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/external.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/external/serde_support.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/uuid-1.3.0/src/macros.rs:

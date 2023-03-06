@@ -1,0 +1,12 @@
+[global]
+environment = "production"
+
+[logging]
+level = "debug"
+
+[build]
+target = "x86_64-unknown-linux-musl"
+
+[global.databases]
+chat_db = { url = "sqlite:/tmp/chat.db" }
+

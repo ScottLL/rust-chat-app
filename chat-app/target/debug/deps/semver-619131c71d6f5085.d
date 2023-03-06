@@ -1,0 +1,13 @@
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/semver-619131c71d6f5085.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/serde.rs
+
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/semver-619131c71d6f5085.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/serde.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/backport.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/display.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/error.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/eval.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/identifier.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/impls.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/parse.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/semver-1.0.16/src/serde.rs:

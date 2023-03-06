@@ -1,0 +1,11 @@
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/shuttle_common-0ef87a380f9b43a0.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/database.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/deployment.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/log.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/project.rs
+
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/libshuttle_common-0ef87a380f9b43a0.rlib: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/database.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/deployment.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/log.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/project.rs
+
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/shuttle_common-0ef87a380f9b43a0.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/database.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/deployment.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/log.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/project.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/database.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/deployment.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/log.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/shuttle-common-0.11.2/src/project.rs:

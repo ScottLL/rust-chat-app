@@ -1,4 +1,6 @@
 #[macro_use] extern crate rocket;
+#[macro_use] extern crate shuttle_service;
+
 
 #[cfg(test)] mod tests;
 
@@ -9,6 +11,8 @@ use rocket::response::stream::{EventStream, Event};
 use rocket::serde::{Serialize, Deserialize};
 use rocket::tokio::sync::broadcast::{channel, Sender, error::RecvError};
 use rocket::tokio::select;
+use shuttle_service::ShuttleRocket;
+
 
 #[derive(Debug, Clone, FromForm, Serialize, Deserialize)]
 #[cfg_attr(test, derive(PartialEq, UriDisplayQuery))]
@@ -49,8 +53,16 @@ fn post(form: Form<Message>, queue: &State<Sender<Message>>) {
     let _res = queue.send(form.into_inner());
 }
 
-#[launch]
-fn rocket() -> _ {
+// #[launch]
+// fn rocket() -> _ {
+//     rocket::build()
+//         .manage(channel::<Message>(1024).0)
+//         .mount("/", routes![post, events])
+//         .mount("/", FileServer::from(relative!("static")))
+// }
+
+#[shuttle_service::main]
+async fn rocket() -> ShuttleRocket {
     rocket::build()
         .manage(channel::<Message>(1024).0)
         .mount("/", routes![post, events])

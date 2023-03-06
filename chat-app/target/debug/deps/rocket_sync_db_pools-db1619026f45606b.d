@@ -1,0 +1,9 @@
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/rocket_sync_db_pools-db1619026f45606b.rmeta: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/poolable.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/config.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/error.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/connection.rs
+
+/Users/scottlai/rust-chat-app/chat-app/target/debug/deps/rocket_sync_db_pools-db1619026f45606b.d: /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/lib.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/poolable.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/config.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/error.rs /Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/connection.rs
+
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/lib.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/poolable.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/config.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/error.rs:
+/Users/scottlai/.cargo/registry/src/github.com-1ecc6299db9ec823/rocket_sync_db_pools-0.1.0-rc.2/src/connection.rs:
