@@ -1,6 +1,3 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# rust-Chat-App
+Build a chat app to communicate with each other with multiple people and multiple place using rust. 
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
