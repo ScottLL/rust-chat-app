@@ -1,12 +1,13 @@
 # rust-Chat-App
 This is a simple chat application built with Rust and Rocket framework.
-
+Check the result in https://chat-app-rust.shuttleapp.rs/ 
 
 # Installation
 To run this application, you'll need to have Rust and Cargo installed. If you don't have them installed, you can download and install them from https://www.rust-lang.org/learn/get-started.
 
 * The chat-app is for localhost:8000, you can try to use it locally. 
-* The chat-app-rust is using the shuttle to deploy the chat-app. you can check the result in https://chat-app-rust.shuttleapp.rs/ 
+* The chat-app-rust is using the shuttle to deploy the chat-app.
+
 Once you have Rust and Cargo installed, you can clone this repository and run the following command to start the server:
 This will start the server on port 8000 by default. You can access the chat app by visiting http://localhost:8000 in your web browser.
 
