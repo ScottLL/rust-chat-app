@@ -1,6 +1,7 @@
 # rust-Chat-App
 This is a simple chat application built with Rust and Rocket framework.
-Check the result in https://chat-app-rust.shuttleapp.rs/ 
+
+* Check the result in **https://chat-app-rust.shuttleapp.rs/** 
 
 # Installation
 To run this application, you'll need to have Rust and Cargo installed. If you don't have them installed, you can download and install them from https://www.rust-lang.org/learn/get-started.
@@ -18,7 +19,7 @@ The development process for this chat app involved the following steps:
 * Adding dependencies to the Cargo.toml file for Rocket, Diesel, and other necessary packages.
 * Setting up the database using Diesel migrations and SQLite.
 * Creating the necessary models, routes, and controllers for the chat app.
-* Implementing WebSocket support using the shuttle package.
+* Implementing WebSocket support using the shuttle service.
 * Testing the application and fixing any bugs or errors.
 
 # Functionality
@@ -36,8 +37,8 @@ The chat app allows users to:
 
 # Packages Used
 The following packages were used to build this chat app:
-rocket = {version = "0.5.0-rc.1", features = ["json"]}
-time = "0.3.15"
-shuttle-service = { version = "0.11.0", features = ["web-rocket"] }
+> rocket = {version = "0.5.0-rc.1", features = ["json"]}
+> time = "0.3.15"
+> shuttle-service = { version = "0.11.0", features = ["web-rocket"] }
 
 
