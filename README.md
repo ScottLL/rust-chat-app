@@ -38,7 +38,9 @@ The chat app allows users to:
 # Packages Used
 The following packages were used to build this chat app:
 > rocket = {version = "0.5.0-rc.1", features = ["json"]}
+
 > time = "0.3.15"
+
 > shuttle-service = { version = "0.11.0", features = ["web-rocket"] }
 
 
