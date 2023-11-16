@@ -1,0 +1,9 @@
+/Users/zhanyilin/Documents/GitHub/rust-chat-app-Scott/chat-app/target/debug/deps/cargo_metadata-beecf3df725cb47f.rmeta: /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/lib.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/dependency.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/diagnostic.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/errors.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/messages.rs
+
+/Users/zhanyilin/Documents/GitHub/rust-chat-app-Scott/chat-app/target/debug/deps/cargo_metadata-beecf3df725cb47f.d: /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/lib.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/dependency.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/diagnostic.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/errors.rs /Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/messages.rs
+
+/Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/lib.rs:
+/Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/dependency.rs:
+/Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/diagnostic.rs:
+/Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/errors.rs:
+/Users/zhanyilin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cargo_metadata-0.15.4/src/messages.rs:
